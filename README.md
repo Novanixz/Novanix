@@ -1,3 +1,12 @@
+
+<h3>◼ NOVANIX AI</h3>
+
+<h3>◼ HARDWARE LAB</h3>
+
+<h3>◼ SOFTWARE SYSTEMS</h3>
+
+<h3>◼ FUTURE FRONTIERS</h3>
+
 <div align="center">
   <img src="./Novanix_%20Exploring%20the%20Unknown.png" alt="NOVANIX — Exploring the Unknown. Engineering the Future." width="100%">
 </div>
