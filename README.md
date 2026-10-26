@@ -100,11 +100,11 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 
 ---
 
-<h2 align="center">◼ TECHNOLOGY STACK</h2>
+<h2 align="center"> TECHNOLOGY STACK</h2>
 
 <p align="center"><em>ENGINEERING CAPABILITIES // LEVEL 01</em></p>
 
-<h3>◼ CURRENTLY LEARNING</h3>
+<h3> CURRENTLY LEARNING</h3>
 
 <p>
   <code>Python</code>
@@ -113,7 +113,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
   <code>Windows 11</code>
 </p>
 
-<h3>◼ AREAS OF EXPLORATION</h3>
+<h3> AREAS OF EXPLORATION</h3>
 
 <p>
   <code>Artificial Intelligence</code>
@@ -125,4 +125,30 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 
 <p align="center">
   <strong>LEARN // EXPERIMENT // ENGINEER</strong>
+</p>
+
+---
+
+<h2 align="center">◼ NOVANIX // SYSTEM METRICS</h2>
+
+<p align="center">
+  <em>DEVELOPER ACTIVITY DASHBOARD</em>
+</p>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Novanixz&show_icons=true&hide_border=true&bg_color=0b0c0f&title_color=ffffff&text_color=c0c4cc&icon_color=ffffff"
+    alt="Novanixz GitHub statistics"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novanixz&layout=compact&hide_border=true&bg_color=0b0c0f&title_color=ffffff&text_color=c0c4cc"
+    alt="Novanixz top programming languages"
+  />
+</div>
+
+<p align="center">
+  <sub>BUILD // LEARN // CREATE // IMPROVE</sub>
 </p>
