@@ -2,8 +2,6 @@
   <img src="./Novanix_%20Exploring%20the%20Unknown.png" alt="NOVANIX — Exploring the Unknown. Engineering the Future." width="100%">
 </div>
 
-<h2 align="center">HELLO, I'M ISABELLE.</h2>
-
 <h3 align="center">Aspiring Computer Engineerr</h3>
 
 <p align="center">
