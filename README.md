@@ -2,9 +2,9 @@
   <img src="./Novanix_%20Exploring%20the%20Unknown.png" alt="NOVANIX — Exploring the Unknown. Engineering the Future." width="100%">
 </div>
 
-<h2 align="center">HELLO, WORLD. I'M ISABELLE.</h2>
+<h2 align="center">HELLO, I'M ISABELLE.</h2>
 
-<h3 align="center">Aspiring Computer Engineer | NOVANIX Founder</h3>
+<h3 align="center">Aspiring Computer Engineerr</h3>
 
 <p align="center">
   <em>Exploring the Unknown. Engineering the Future.</em>
@@ -23,7 +23,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 ### // CURRENT OBJECTIVES
 
 - [ ] Develop NOVANIX AI, a personal Windows assistant.
-- [ ] Learn Python and build my first software projects.
+- [ ] Build my first software project.
 - [ ] Explore computer hardware and systems engineering.
 - [ ] Experiment with AI, automation, and VR.
 - [ ] Build a portfolio of real engineering projects.
