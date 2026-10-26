@@ -129,7 +129,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 
 ---
 
-<h2 align="center">◼ NOVANIX // SYSTEM METRICS</h2>
+<h2 align="center"> NOVANIX // SYSTEM METRICS</h2>
 
 <p align="center">
   <em>DEVELOPER ACTIVITY DASHBOARD</em>
