@@ -97,3 +97,32 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 <p align="center">
   <strong>BUILD // LEARN // CREATE // EXPLORE // IMPROVE</strong>
 </p>
+
+---
+
+<h2 align="center">◼ TECHNOLOGY STACK</h2>
+
+<p align="center"><em>ENGINEERING CAPABILITIES // LEVEL 01</em></p>
+
+<h3>◼ CURRENTLY LEARNING</h3>
+
+<p>
+  <code>Python</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Windows 11</code>
+</p>
+
+<h3>◼ AREAS OF EXPLORATION</h3>
+
+<p>
+  <code>Artificial Intelligence</code>
+  <code>Computer Hardware</code>
+  <code>Automation</code>
+  <code>VR / XR</code>
+  <code>C / C++</code>
+</p>
+
+<p align="center">
+  <strong>LEARN // EXPERIMENT // ENGINEER</strong>
+</p>
