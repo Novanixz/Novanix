@@ -1,12 +1,4 @@
 
-<h3>◼ NOVANIX AI</h3>
-
-<h3>◼ HARDWARE LAB</h3>
-
-<h3>◼ SOFTWARE SYSTEMS</h3>
-
-<h3>◼ FUTURE FRONTIERS</h3>
-
 <div align="center">
   <img src="./Novanix_%20Exploring%20the%20Unknown.png" alt="NOVANIX — Exploring the Unknown. Engineering the Future." width="100%">
 </div>
@@ -54,7 +46,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 NOVANIX AI</h3>
+      <h3> NOVANIX AI</h3>
       <p><strong>Personal AI Assistant</strong></p>
       <p>A JARVIS-inspired Windows assistant designed to respond to voice commands, launch applications, and evolve into a personalized AI companion.</p>
       <p>
@@ -65,7 +57,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
       <p><em>STATUS: IN DEVELOPMENT</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ HARDWARE LAB</h3>
+      <h3> HARDWARE LAB</h3>
       <p><strong>Computer Engineering</strong></p>
       <p>Exploring PC hardware, system components, troubleshooting, and practical engineering builds.</p>
       <p>
@@ -78,7 +70,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌘ SOFTWARE SYSTEMS</h3>
+      <h3> SOFTWARE SYSTEMS</h3>
       <p><strong>Learning Through Building</strong></p>
       <p>Small applications, programming experiments, and tools developed while learning software engineering.</p>
       <p>
@@ -89,7 +81,7 @@ I believe engineering should be accessible to everyone, and I'm especially passi
       <p><em>STATUS: EVOLVING</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ FUTURE FRONTIERS</h3>
+      <h3> FUTURE FRONTIERS</h3>
       <p><strong>AI · VR · Emerging Technology</strong></p>
       <p>Future explorations into intelligent systems, immersive experiences, and innovative computing.</p>
       <p>
